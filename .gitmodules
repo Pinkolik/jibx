@@ -1,6 +1,6 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/jibx/core
+	url = https://github.com/Pinkolik/core.git
 [submodule "jibx-parent"]
 	path = jibx-parent
 	url = https://github.com/jibx/jibx-parent
