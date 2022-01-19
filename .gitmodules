@@ -3,7 +3,7 @@
 	url = https://github.com/Pinkolik/core.git
 [submodule "jibx-parent"]
 	path = jibx-parent
-	url = https://github.com/jibx/jibx-parent
+	url = https://github.com/Pinkolik/jibx-parent.git
 [submodule "schema-library"]
 	path = schema-library
 	url = https://github.com/jibx/schema-library
